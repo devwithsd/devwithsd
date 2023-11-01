@@ -5,7 +5,7 @@
 - 🙃: Pronouns: bro/dude/he
 - 📫: How to reach me: you can't right now
 - 🇧🇩: From Bangladesh. Religion: *`Hindu`*
-- 💕: ⚽ 🎧 🎮 __Free Fire, Minecraft, Subway Surfers__
+- 💕: ⚽ 🎧 🖍️ 🎮 __Free Fire, Minecraft, Subway Surfers__
 
 
 <!---
