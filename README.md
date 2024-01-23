@@ -1,7 +1,7 @@
 - 👋: Hi there, and welcome!
 - 🧵: I create new things in my free time.
 - 🔭: I will contribute other open source projects.
-- 🌱: Currently learning: C++, JavaScript & Python. (also my favorites)
+- 🌱: Currently learning: C++, JavaScript & Python... (also my favorites)
 - 📫: How to reach me: you can't right now
 - 🇧🇩: From Bangladesh. Religion: *`Hindu`*
 - 💕: ⚽ 🎧 🖍️ 🎮 __Free Fire, Minecraft, Subway Surfers__
@@ -10,7 +10,7 @@
 
 __You can meet me by sending me a mail to:__
 ```
-21noxreaper@gmail.com
+devwithsd@outlook.com
 ```
 
 
