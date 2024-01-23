@@ -1,9 +1,9 @@
 - 👋: Hi there, and welcome!
 - 🧵: I create new things in my free time.
-- 🔭: I will contribute other open source projects in future.
-- 🌱: Currently learning: C++, JavaScript & Python. (also they're my favorites)
-- 📫: How to reach me: you can't right now
-- 🇧🇩: From Bangladesh. Religion: *`Hindu`*
+- 🔭: I'll contribute to other open source project in future.
+- 🌱: Currently learning: C++, JavaScript & Python (also they're my favorite languages)
+- 📫: How to reach me: __you can't right now__
+- 🇧🇩: From Bangladesh... Religion: *`Hindu`*
 - 💕: ⚽ 🎧 🖍️ 🎮 __Free Fire, Minecraft, Subway Surfers__
 
 
